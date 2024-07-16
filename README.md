@@ -24,7 +24,9 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/pedro-lucas-de-lavor-farias-40314328b/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/pedro.lavor/)
+[<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:pedrinho.lavor@aluno.uece.br)
 </p>
+
 
 
 
