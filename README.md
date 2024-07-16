@@ -4,7 +4,11 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
 
 <span style="color: #4CAF50;">👨‍💻 Tech Enthusiast</span> | 🎮 Gamer | 🥊 Athlete | ⛩️ Geek
 
-## Skills:
+
+<p align="center">
+  <img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="Gojo Satoru" width="350"/>
+</p>
+
 
 #### Languages:
 
