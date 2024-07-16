@@ -44,9 +44,9 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
   <img src="https://github-readme-stats.vercel.app/api?username=pedro-barcelona&theme=dracula&show_icons=true" alt="GitHub Stats">
 </p>
 
-## Gojo-Satoru
+## Thank you for reading!
 
-<p align="right">
+<p align="center">
   <img src="https://64.media.tumblr.com/00bf7278fda65312dbdbf1b9642d5783/dd282aea9d1b8856-58/s540x810/91ec7a9db3a9e8bce75440d38cf0ad6b4ba5e994.gif" alt="Gojo Satoru" width="350"/>
 </p>
 
