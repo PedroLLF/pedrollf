@@ -4,7 +4,7 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
 
 <span style="color: #4CAF50;">👨‍💻 Tech Enthusiast</span> | 🎮 Gamer | 🥊 Athlete | ⛩️ Geek
 
-<p align="right">
+<p align="left">
   <img src="https://i.pinimg.com/originals/40/14/02/4014020e00ed21c874cc6eb6949927bd.gif" alt="Icon" width="200"/>
 </p>
 
