@@ -1,7 +1,7 @@
 ### Hi there, I'm Pedro Lavor 👋
 
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/2004717401575468613/D789E35BBD6C327CA3C7DD2051925FF6B1D97EA2/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Gojo Satoru" width="700"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2004717401575468613/D789E35BBD6C327CA3C7DD2051925FF6B1D97EA2/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Gojo Satoru" width="350"/>
 </p>
 
 Currently studying computer science at [Universidade Estadual do Ceará - UECE](https://www.uece.br), Brazil.
