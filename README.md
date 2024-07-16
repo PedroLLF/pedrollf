@@ -1,8 +1,9 @@
 ### Hi there, I'm Pedro Lavor 👋
 
-<p align="center">
-  <img src="https://gifdb.com/images/high/jujutsu-kaisen-satoru-gojo-eyes-9z0ol1l5hgmrzlsb.webp" alt="Gojo Satoru" width="900"/>
+<p style="position: fixed; top: 0; right: 0; margin: 10px;">
+  <img src="https://gifdb.com/images/high/jujutsu-kaisen-satoru-gojo-eyes-9z0ol1l5hgmrzlsb.webp" alt="Gojo Satoru" width="350"/>
 </p>
+
 
 Currently studying computer science at [Universidade Estadual do Ceará - UECE](https://www.uece.br), Brazil.
 
