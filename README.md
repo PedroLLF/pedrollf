@@ -6,8 +6,9 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="Gojo Satoru" width="350"/>
+  <img src="https://gifdb.com/images/high/jujutsu-kaisen-satoru-gojo-eyes-9z0ol1l5hgmrzlsb.webp" alt="Gojo Satoru" width="350"/>
 </p>
+
 
 
 #### Languages:
