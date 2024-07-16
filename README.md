@@ -1,8 +1,8 @@
 ### Hi there, I'm Pedro Lavor 👋
 
 <p style="position: fixed; top: 0; right: 0; margin: 10px;">
-  <img src="https://media.giphy.com/media/abc1234567890/giphy.gif" alt="Gojo Satoru" width="350"/>
-</p>
+        <img src="https://i.pinimg.com/originals/40/14/02/4014020e00ed21c874cc6eb6949927bd.gif" alt="Icon" id="top-right-icon">
+    </p>
 
 
 Currently studying computer science at [Universidade Estadual do Ceará - UECE](https://www.uece.br), Brazil.
