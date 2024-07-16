@@ -8,7 +8,7 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
   <img src="https://i.pinimg.com/originals/40/14/02/4014020e00ed21c874cc6eb6949927bd.gif" alt="Icon" width="3S50"/>
 </p>
 
-## Languages:
+Languages:
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
