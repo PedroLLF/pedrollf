@@ -1,12 +1,14 @@
 ### Hi there, I'm Pedro Lavor 👋
 
-Currently studyng computer science at [Universidade Estadual do Ceará - UECE](https://www.uece.br), Brazil.
+Currently studying computer science at [Universidade Estadual do Ceará - UECE](https://www.uece.br), Brazil.
 
 ## Skills:
 
 #### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
