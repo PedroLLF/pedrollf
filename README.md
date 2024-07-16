@@ -31,6 +31,8 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
 [<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:pedrinho.lavor@aluno.uece.br)
 </p>
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-barcelona&theme=dracule&show_icons=true)
+
 
 
 
