@@ -1,7 +1,7 @@
 ### Hi there, I'm Pedro Lavor 👋
 
 <p style="position: fixed; top: 0; right: 0; margin: 10px;">
-  <img src="https://gifdb.com/images/high/jujutsu-kaisen-satoru-gojo-eyes-9z0ol1l5hgmrzlsb.webp" alt="Gojo Satoru" width="350"/>
+  <img src="https://media.giphy.com/media/abc1234567890/giphy.gif" alt="Gojo Satoru" width="350"/>
 </p>
 
 
