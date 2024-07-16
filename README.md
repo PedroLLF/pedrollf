@@ -1,6 +1,6 @@
-### Hi there, I'm Guilherme Souza 👋
+### Hi there, I'm Pedro Lavor 👋
 
-Currently studyng computer science at [Federal Institute of Ceará](https://ifce.edu.br/maracanau), Brazil.
+Currently studyng computer science at [Universidade Estadual do Ceará - UECE](https://www.uece.br), Brazil.
 
 ## Skills:
 
