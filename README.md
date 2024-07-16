@@ -1,13 +1,10 @@
 ### Hi there, I'm Pedro Lavor 👋
 
-<p style="position: fixed; top: 0; right: 0; margin: 10px;">
-        <img src="https://i.pinimg.com/originals/40/14/02/4014020e00ed21c874cc6eb6949927bd.gif" alt="Icon" id="top-right-icon">
-    </p>
-
-
 Currently studying computer science at [Universidade Estadual do Ceará - UECE](https://www.uece.br), Brazil.
 
-<span style="color: #4CAF50;">👨‍💻 Tech Enthusiast</span> | 🎮 Gamer | 🥊 Athlete | ⛩️ Geek
+<span style="color: #4CAF50;">👨‍💻 Tech Enthusiast</span> | 🎮 Gamer | 🥊 Athlete | ⛩️ Geek <p style="position: fixed; top: 0; right: 0; margin: 10px;">
+        <img src="https://i.pinimg.com/originals/40/14/02/4014020e00ed21c874cc6eb6949927bd.gif" alt="Icon" id="top-right-icon">
+    </p>
 
 #### Languages:
 
