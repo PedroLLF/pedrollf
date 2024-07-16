@@ -1,5 +1,7 @@
+## Gojo-Satoru
+
 <p align="center">
-  <img src="https://gifdb.com/images/high/jujutsu-kaisen-satoru-gojo-eyes-9z0ol1l5hgmrzlsb.webp" alt="Gojo Satoru" width="700"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2004717401575468613/D789E35BBD6C327CA3C7DD2051925FF6B1D97EA2/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Gojo Satoru" width="350"/>
 </p>
 
 
