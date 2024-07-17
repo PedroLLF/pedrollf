@@ -8,7 +8,7 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
   <img src="https://i.pinimg.com/originals/40/14/02/4014020e00ed21c874cc6eb6949927bd.gif" alt="Icon" width="200"/>
 </p>
 
-## Languages:
+## Tech Stack:
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -16,15 +16,19 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-
-## Tools and Technologies:
-
-<p>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) -->
   <!-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) -->
 </p>
+
+## GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro-barcelona&theme=dracula&show_icons=true" alt="GitHub Stats">
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## Connect with me:
 
@@ -38,10 +42,6 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
   <a href="mailto:pedrinho.lavor@aluno.uece.br">
     <img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Email">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro-barcelona&theme=dracula&show_icons=true" alt="GitHub Stats">
 </p>
 
 ## Thank you for reading!
