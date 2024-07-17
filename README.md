@@ -27,7 +27,7 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedro-barcelona&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro-barcelona&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro-barcelona&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Connect with me:
 
