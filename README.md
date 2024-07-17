@@ -23,11 +23,10 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
 
 ## GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro-barcelona&theme=dracula&show_icons=true" alt="Pedro's GitHub stats">
-</p>
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-barcelona&theme=dracula&show_icons=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro-barcelona&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro-barcelona&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Connect with me:
 
