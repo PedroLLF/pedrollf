@@ -15,9 +15,9 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/LangChain-33FF5B?style=for-the-badge&logo=LangChain&logoColor=white">
-  <img src="https://img.shields.io/badge/LangGraph-33FFCA?style=for-the-badge&logo=LangGraph&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-00D46A?style=for-the-badge&logo=LangChain&logoColor=white">
+  <img src="https://img.shields.io/badge/LangGraph-00A9D7?style=for-the-badge&logo=LangGraph&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_AWS-E89000?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <!-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) -->
 </p>
 
