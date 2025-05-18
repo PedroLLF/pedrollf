@@ -18,6 +18,7 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+   <img src="https://img.shields.io/badge/LangChain-33FF5B?style=for-the-badge&logo=LangChain&logoColor=white">
   <!-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) -->
 </p>
 
