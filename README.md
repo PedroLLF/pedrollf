@@ -23,11 +23,11 @@ Currently studying computer science at [Universidade Estadual do Ceará - UECE](
 
 ## GitHub Stats:
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-barcelona&theme=dracula&show_icons=true)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrollf&theme=dracula&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedro-barcelona&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedrollf&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro-barcelona&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrollf&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Connect with me:
 
